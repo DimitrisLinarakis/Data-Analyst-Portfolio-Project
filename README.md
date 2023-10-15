@@ -38,3 +38,12 @@ excel sheet and they would like to see a dashboard outlying sentiment, top artic
 ### Relevant Files
 - blogme.py
 - blogme_clean.zip
+
+## Project 4: Movie Industry Analysis
+This project has developed through Jupiter Notebook (Python) and it uses some of the most popoular libraries on 
+Data Analysis sector, like NumPy, Seaborn, Pandas etc. Also, we examine if there is a high correlation between 
+the budget and the gross earnings of the movies.
+
+### Relevant Files
+- Movie Industry (Data Analyst Portfolio Project).ipynb
+- movies.csv.zip
