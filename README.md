@@ -19,7 +19,8 @@ dashboard on this and says the data is currently stored in an excel sheet.
 - valueInc_sales.py
 - ValueInc_Cleaned.rar
 
-### **Link to Tableau Dashboard:** https://public.tableau.com/app/profile/dimitris.linarakis/viz/SalesforValueInc__16970408923320/Dashboard1
+### Link to Tableau Dashboard: 
+- https://public.tableau.com/app/profile/dimitris.linarakis/viz/SalesforValueInc__16970408923320/Dashboard1
 
 ## Project 2: Blue Bank Loan Analysis
 Blue Bank is a bank in USA that has a loan department which is currently understaffed. 
@@ -31,6 +32,9 @@ issues paying back the loan.
 - bluebank.py
 - loan_cleaned.zip
 
+### Link to Tableau Dashboard: 
+- https://public.tableau.com/app/profile/dimitris.linarakis/viz/BlueBankLoans_16970623687430/BlueBankLoan
+
 ## Project 3: BlogMe Sentiment and Keyword Analysis 
 BlogMe, a famous blogging business has a dataset of news articles that they need 
 further analysis on. Firstly, they’d like keywords to be extracted from headlines of the article. Secondly, 
@@ -40,6 +44,10 @@ excel sheet and they would like to see a dashboard outlying sentiment, top artic
 ### Relevant Files
 - blogme.py
 - blogme_clean.zip
+
+### Link to Tableau Dashboard: 
+- https://public.tableau.com/app/profile/dimitris.linarakis/viz/BlogMeSentimentAnalysis_16972033539880/BlogMeNewsDashboard
+
 
 ## Project 4: Movie Industry Analysis
 This project has developed through Jupiter Notebook (Python) and it uses some of the most popoular libraries on 
