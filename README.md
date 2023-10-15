@@ -19,6 +19,8 @@ dashboard on this and says the data is currently stored in an excel sheet.
 - valueInc_sales.py
 - ValueInc_Cleaned.rar
 
+### **Link to Tableau Dashboard:** https://public.tableau.com/app/profile/dimitris.linarakis/viz/SalesforValueInc__16970408923320/Dashboard1
+
 ## Project 2: Blue Bank Loan Analysis
 Blue Bank is a bank in USA that has a loan department which is currently understaffed. 
 They supply loans to individuals and don’t have much reporting on how risky these 
